@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.iml
+**/build/
+pc_companion/.venv/
+pc_companion/dist/
+pc_companion/__pycache__/
+pc_companion/*.spec
+pc_companion/**/*.py[cod]
+pc_companion/*.log
+pc_companion/auth.token
+.DS_Store
+Thumbs.db
